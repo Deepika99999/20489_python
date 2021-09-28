@@ -1,0 +1,17 @@
+i=10
+print("hello")
+print(i)
+height=1.79
+weight=68.7
+height
+weight/height**2
+bmi=weight/height**2
+bmi
+i=20
+j=30
+if(i<j):
+    print(i)
+    print(j)
+    print(i+j)
+else:
+    print("hi")
